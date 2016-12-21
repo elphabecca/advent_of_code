@@ -28,3 +28,5 @@ with open('day6inp.txt') as inp:
     print keywithmaxval(col5)
     print keywithmaxval(col6)
     print keywithmaxval(col7)
+
+# For part A, where you needed the max, I changed the 'min' value in line 6 to 'max'
